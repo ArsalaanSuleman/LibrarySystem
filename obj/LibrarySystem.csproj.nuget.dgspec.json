@@ -61,14 +61,6 @@
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[10.0.5, )"
-            },
-            "Moq": {
-              "target": "Package",
-              "version": "[4.20.72, )"
-            },
-            "xunit": {
-              "target": "Package",
-              "version": "[2.9.3, )"
             }
           },
           "imports": [
